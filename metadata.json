@@ -1,0 +1,5 @@
+{
+  "name": "Glassy Brainvita 3D",
+  "description": "A stunning 3D implementation of the classic Peg Solitaire (Brainvita) game featuring realistic glass marbles, glassmorphism UI, and undo/redo functionality.",
+  "requestFramePermissions": []
+}

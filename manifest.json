@@ -1,0 +1,18 @@
+{
+  "name": "Glassy Brainvita 3D",
+  "short_name": "Brainvita3D",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#0f172a",
+  "description": "A stunning 3D implementation of Peg Solitaire.",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/1041/1041166.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
